@@ -1,7 +1,7 @@
 
 entities:
   - pumpkin: 
-      vertices: "objectFiles/FinalBaseMesh.obj"
+      vertices: "objectFiles/teapot.obj"
       position:  [0, 0, -75]
       rotation: [0, 0, 0]
       script: "scripts.testScript"
